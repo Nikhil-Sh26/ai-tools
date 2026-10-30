@@ -1,0 +1,3 @@
+videosdk-agents[google]
+python-dotenv
+requests
